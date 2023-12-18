@@ -2,8 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### • Welcome to my Github profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
 
  📚 Digital Solutions - BOSCH <br> 
