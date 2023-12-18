@@ -6,9 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
 
- 📚 Systems Development - Senai Roberto Mange <br> 
- 🎓 Systems Development - Universidade São Francisco <br>
- 💻 Interested in learning more about web development <br>
+ 📚 Digital Solutions - BOSCH <br> 
 
 ### • Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
 
