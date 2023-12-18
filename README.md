@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/cc/0b/d0/cc0bd08a0e76e02484f0f5e9adea68b7.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/cc/0b/d0/cc0bd08a0e76e02484f0f5e9adea68b7.gif">
 
 ### Digital Solutions - BOSCH <br> 
 ### Languages and Tools 
