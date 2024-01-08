@@ -6,7 +6,7 @@
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,java,html,css,github,figma" width="38%" height="38%"/>
+        <img src="https://skillicons.dev/icons?i=py,java,github" width="38%" height="38%"/>
     </a>
 </p>
 </div>
