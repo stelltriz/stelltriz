@@ -1,4 +1,4 @@
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Digital Solutions - BOSCH
 ### Languages and Tools
@@ -11,6 +11,6 @@
 </p>
 </div>
 <br>    
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
