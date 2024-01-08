@@ -1,12 +1,12 @@
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif">
 
 ### Digital Solutions - BOSCH
-### Languages and Tools 
+### Languages and Tools
 
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,java,github" width="38%" height="38%"/>
+        <img src="https://skillicons.dev/icons?i=py,java,css,javascript" width="30%" height="30%"/>
     </a>
 </p>
 </div>
