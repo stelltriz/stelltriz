@@ -1,6 +1,6 @@
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif">
 
-### Digital Solutions - BOSCH <br> 
+### Digital Solutions - BOSCH
 ### Languages and Tools 
 
 <div align="left">
