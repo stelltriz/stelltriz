@@ -7,6 +7,7 @@
 <p>
     <a>
         <img src="https://skillicons.dev/icons?i=py,java,css,javascript,figma,vscode" width="33%" height="33%"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelltriz&layout=compact&langs_count=8&theme=dark"/>
     </a>
 </p>
 </div>
