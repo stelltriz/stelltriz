@@ -6,7 +6,7 @@
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,java,html,css,javascript,typescript,angular,react,threejs,vite,fastapi,spring,blender,figma,vscode,unity" width="45%" height="45%"/>
+        <img src="https://skillicons.dev/icons?i=py,java,html,css,javascript,typescript,angular,react,threejs,vite,fastapi,spring,blender,figma,vscode,unity" width="55%" height="50%"/>
     </a>
 </p>
 </div>
