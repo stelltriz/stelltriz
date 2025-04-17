@@ -1,5 +1,4 @@
 
-### Digital Solutions
 ### Languages and Tools
 
 <div align="left">
