@@ -7,7 +7,7 @@ I'm passionate about coding and constantly learning new technologies. Currently,
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,cs,javascript,typescript,react,spring,fastapi,threejs,blender,figma,visualstudio,unity" width="55%" height="50%"/>
+        <img src="https://skillicons.dev/icons?i=py,cs,javascript,typescript,threejs,blender,figma,visualstudio,unity" width="55%" height="50%"/>
     </a>
 </p>
 </div>
