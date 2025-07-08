@@ -14,6 +14,5 @@ Here you'll find a little bit of all that.
 </div>
 <br>    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stelltriz&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=stelltriz&theme=dark)](https://git.io/streak-stats)
 
