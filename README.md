@@ -16,3 +16,6 @@ Here you'll find a little bit of all that.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=stelltriz&theme=dark)](https://git.io/streak-stats)
 
+## 📫 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/-Visit%20my%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-beatriz2005/)
