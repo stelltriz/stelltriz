@@ -8,7 +8,7 @@ Here you'll find a little bit of all that.
 <div align="left">
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=py,cs,javascript,typescript,html,css,threejs,blender,figma,visualstudio,unity" width="55%" height="50%"/>
+        <img src="https://skillicons.dev/icons?i=py,cs,java,javascript,typescript,html,css,threejs,blender,figma,visualstudio,unity" width="55%" height="50%"/>
     </a>
 </p>
 </div>
