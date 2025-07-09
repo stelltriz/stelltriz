@@ -5,6 +5,7 @@ Here you'll find a little bit of all that.
 
 #### Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-68217A?&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
